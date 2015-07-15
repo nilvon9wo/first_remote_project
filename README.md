@@ -1,2 +1,2 @@
 # first_remote_project
-hello world
+Hello Planet Earth!
